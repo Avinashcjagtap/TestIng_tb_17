@@ -14,5 +14,9 @@ public class A
 	{
 		System.out.println("Hello");
 	}
+	public void m3()
+	{
+		System.out.println("Hello");
+	}
 
 }
